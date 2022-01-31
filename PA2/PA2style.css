@@ -33,3 +33,9 @@ iframe
 {
     flex-wrap: wrap;
 }
+
+.pic4
+{
+    width: 500px;
+    height: 400px;
+}
